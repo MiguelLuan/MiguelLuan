@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Miguel Luan
 
-**` 🧑‍💻Desenvolvedor Front-end`**
+**` 🧑‍💻 Desenvolvedor Front-end`**
 
 Sou um desenvolvedor Front-end apaixonado por tecnologia e por criar interfaces web!  
 Atualmente estudo e pratico com foco em **HTML**, **CSS**, **JavaScript** e um pouco de **Python**.  
