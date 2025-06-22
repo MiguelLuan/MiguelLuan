@@ -2,16 +2,16 @@
 
 **` 🧑‍💻 Desenvolvedor Front-end`**
 
-Sou um desenvolvedor Front-end apaixonado por tecnologia e por criar interfaces web!  
+Sou um desenvolvedor Front-end fascinado por tecnologia e por criar interfaces web!  
 Atualmente estudo e pratico com foco em **HTML**, **CSS**, **JavaScript** e um pouco de **Python**.  
 Sempre buscando aprender mais e compartilhar conhecimento.
 
+---
 
 ### 📫 Me acompanhe por aqui ou nas redes!
 
 ---
 
-![Visualizações de Perfil](https://komarev.com/ghpvc/?username=MiguelLuan&color=blueviolet&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/miguel-luan-112b16370/)
 [![Instagram](https://img.shields.io/badge/%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MiguelLuan15/)
