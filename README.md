@@ -11,8 +11,6 @@ Sempre buscando aprender mais e compartilhar conhecimento.
 
 ---
 
-[![Seguidores](https://img.shields.io/github/followers/MiguelLuan?label=👥%20Seguidores&style=for-the-badge&color=grey)](https://github.com/MiguelLuan?tab=followers)
-[![Estrelas](https://img.shields.io/github/stars/MiguelLuan?label=🌟%20Estrelas&style=for-the-badge&color=grey)](https://github.com/MiguelLuan?tab=stars)
 ![Visualizações de Perfil](https://komarev.com/ghpvc/?username=MiguelLuan&color=blueviolet&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/miguel-luan-112b16370/)
