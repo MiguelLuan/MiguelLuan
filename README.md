@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá! Me chamo Miguel Luan
 
-<!--
-**MiguelLuan/MiguelLuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**` 🧑‍💻Desenvolvedor Front-end`**
 
-Here are some ideas to get you started:
+Sou um desenvolvedor Front-end apaixonado por tecnologia e por criar interfaces web!  
+Atualmente estudo e pratico com foco em **HTML**, **CSS**, **JavaScript** e um pouco de **Python**.  
+Sempre buscando aprender mais e compartilhar conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Me acompanhe por aqui ou nas redes!
+
+---
+
+[![Seguidores](https://img.shields.io/github/followers/MiguelLuan?label=👥%20Seguidores&style=for-the-badge&color=grey)](https://github.com/MiguelLuan?tab=followers)
+[![Estrelas](https://img.shields.io/github/stars/MiguelLuan?label=🌟%20Estrelas&style=for-the-badge&color=grey)](https://github.com/MiguelLuan?tab=stars)
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=MiguelLuan&color=blueviolet&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/miguel-luan-112b16370/)
+[![Instagram](https://img.shields.io/badge/%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MiguelLuan15/)
+
+---
+
+### 💻 Linguagem e Tecnologia
+
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+      alt="GitHub Status"
+      height="200"
+      style="padding-right: 10px"
+      src="https://github-readme-stats.vercel.app/api?username=MiguelLuan&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+      alt="Linguagens mais usadas"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLuan&theme=dark&layout=compact&custom_title=Tecnologias"
+  />
+</p>
