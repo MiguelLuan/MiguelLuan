@@ -10,7 +10,6 @@ Sempre buscando aprender mais e compartilhar conhecimento.
 
 ### 📫 Me acompanhe por aqui ou nas redes!
 
----
 
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/miguel-luan-112b16370/)
